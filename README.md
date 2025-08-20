@@ -73,7 +73,3 @@ If you'd like to enhance this project, feel free to:
 - Add missing documentation or datasets
 - Include examples, tests, or notebook outputs
 - Implement additional recommendation techniques
-
-##  License
-
-*(Add your chosen license here, e.g., MIT License. If none, write “No license specified.”)*
